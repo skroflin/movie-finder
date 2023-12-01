@@ -72,4 +72,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 ### API Key
 
 Fetches `https://developer.themoviedb.org/docs` API to show lists of movies and certain data. Must register on the said site to generate your own API key for the application to work.
-Upon generating the API key and add it to your `.env` file under `REACT_APP_API_KEY`.
+Upon generating the API key add it to your `.env` file under `REACT_APP_API_KEY`.
